@@ -1,6 +1,6 @@
 name: Enaire 
 version: 1.0.0
-description: "Enaire Lab Theme"
+description: "MaaS Lab Theme"
 icon: crosshairs
 author:
  name: Cesar Delgado
@@ -43,7 +43,7 @@ form:
 
     siteandpageoptions:
       type: section
-      title: 'Enaire Theme Options'
+      title: 'MaaS Theme Options'
       underline: true
 
     enable_doc_versioning:

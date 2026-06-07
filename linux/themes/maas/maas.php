@@ -1,7 +1,7 @@
 <?php
 namespace Grav\Theme;
 use Grav\Common\Theme;
-class enaire extends Learn4
+class maas extends Learn4
 {
 }
 ?>

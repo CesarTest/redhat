@@ -4,7 +4,7 @@ grid-size: grid-lg
 root_page: 					                        # optional: set root page of documentation
 top_level_version: false                            # Use versions for top level navigation
 google_analytics_code:                              # Enter your `UA-XXXXXXXX-X` code here
-home_url:  http://training.econocom.lab             # http://getgrav.org
+home_url:  http://training.maas.lab                 # http://getgrav.org
 github:
     position: top                                   # top | bottom | off
     icon: top                                       # FontAwesome icon
@@ -23,5 +23,5 @@ streams:
      type: ReadOnlyStream
      prefixes:
        '':
-       - 'user://themes/enaire'
+       - 'user://themes/maas'
        - 'user://themes/learn4'
