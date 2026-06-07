@@ -1,0 +1,27 @@
+enabled: true
+production-mode: false
+grid-size: grid-lg  
+root_page: 					                        # optional: set root page of documentation
+top_level_version: false                            # Use versions for top level navigation
+google_analytics_code:                              # Enter your `UA-XXXXXXXX-X` code here
+home_url:  http://training.econocom.lab             # http://getgrav.org
+github:
+    position: top                                   # top | bottom | off
+    icon: top                                       # FontAwesome icon
+    note: true
+    link: true
+    tree:    https://gitlab.proteo.internal/cdelgadog/rhcsa-doc/-/blob/main
+    commits: https://gitlab.proteo.internal/cdelgadog/rhcsa-doc/-/commit/main 
+default_taxonomy_category: docs
+spectre:
+    exp: false
+    icons: false
+
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+       - 'user://themes/enaire'
+       - 'user://themes/learn4'
